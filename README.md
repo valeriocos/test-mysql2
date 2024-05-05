@@ -6,5 +6,6 @@
 
 ## Usage
 
+- npm install typescript
 - npm run server:start (start the docker-compose and create the table Person)
 - npm run main (execute some SQL statements on the table Person)
