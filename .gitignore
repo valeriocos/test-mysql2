@@ -1,0 +1,8 @@
+# VisualStudioCode
+.vscode/*
+
+# Npm
+/node_modules/
+*.js
+*.d.ts
+/dist/
